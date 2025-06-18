@@ -2,7 +2,7 @@
 
 **`Desenvolvedora junior`**
 
-Me chamo Luara Duarte da Silva, tenho 18 anos, sou natural de Manaus-AM e estou cursando Engenharia de Software na FUCAPI.
+Me chamo Luara Duarte, tenho 18 anos, sou natural de Manaus-AM e estou cursando o 4º período de Engenharia de Software.
 
 ### 🤖 Linguagens e Tecnologias
 <img 
