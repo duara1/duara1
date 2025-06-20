@@ -43,24 +43,6 @@ Me chamo Luara Duarte, tenho 18 anos, sou natural de Manaus-AM e estou cursando 
 
 <img 
     align="left" 
-    alt="Firebase" 
-    title="Firebase"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Mysql" 
-    title="Mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg"
-/>
-
-<img 
-    align="left" 
     alt="React native" 
     title="React native"
     width="30px" 
