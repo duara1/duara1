@@ -53,13 +53,4 @@ Me chamo Luara Duarte, tenho 18 anos, sou natural de Manaus-AM e estou cursando 
 <br/>
 <br/>
 
-### 📊 Estatísticas
-<p>
-   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=duara1&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  /
-</p>
+
