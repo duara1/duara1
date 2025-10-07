@@ -2,7 +2,7 @@
 
 **`Desenvolvedora junior`**
 
-Me chamo Luara Duarte, tenho 18 anos, sou natural de Manaus-AM e estou cursando o 4º período de Engenharia de Software.
+Me chamo Luara Duarte, tenho 19 anos, sou natural de Manaus-AM e estou cursando o 4º período de Engenharia de Software.
 
 ### 🤖 Linguagens e Tecnologias
 <img 
