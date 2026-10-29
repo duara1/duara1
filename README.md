@@ -2,7 +2,7 @@
 
 **`Desenvolvedora junior`**
 
-Me chamo Luara Duarte, tenho 19 anos, sou natural de Manaus-AM e estou cursando o 4º período de Engenharia de Software.
+Me chamo Luara Duarte, tenho 20 anos, sou natural de Manaus-AM e estou cursando o 6º período de Engenharia de Software.
 
 ### 🤖 Linguagens e Tecnologias
 <img 
@@ -43,23 +43,10 @@ Me chamo Luara Duarte, tenho 19 anos, sou natural de Manaus-AM e estou cursando 
 
 <img 
     align="left" 
-    alt="React native" 
-    title="React native"
+    alt="Nodejs" 
+    title="Nodejs"
     width="30px" 
     style="padding-right: 10px;" 
-    src= "https://reactnative.dev/img/header_logo.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-<p>
-   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=duara1&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-  /
-</p>
